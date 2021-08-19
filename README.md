@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Emanuele
-- 👀 Not much to see here...
+New stuff Soon™
 
 <!---
 Emanuele-oak/Emanuele-oak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
